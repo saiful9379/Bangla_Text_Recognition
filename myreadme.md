@@ -1,5 +1,5 @@
 
-#Prepare dataset
+# Prepare dataset
 
 At this time, gt.txt should be {imagepath}<space>{label}\n
 For example
