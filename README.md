@@ -46,3 +46,9 @@ python demo.py \
 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn \
 --image_folder demo_image/ \
 --saved_model models/TPS-ResNet-BiLSTM-Attn.pth
+```
+# Screenshot
+![1](img/1.png)
+![1](img/2.png)
+![1](img/3.png)
+![1](img/4.png)
