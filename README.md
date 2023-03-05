@@ -1,5 +1,5 @@
-# Bangla_OCR
-bn_text_recognition
+# Bangla Text Recognition
+Bangla Text Recognition model is  four-stage STR framework, that most existing STR models fit into. Using this framework allows for the module-wise contributions to performance in terms of accuracy, speed, and memory demand, under one consistent set of training and evaluation datasets. Such analyses clean up the hindrance on the current comparisons to understand the performance gain of the existing modules. 
 
 
 # Prepare dataset
