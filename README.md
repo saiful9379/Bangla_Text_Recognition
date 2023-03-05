@@ -40,7 +40,7 @@ CUDA_VISIBLE_DEVICES=0 python demo.py \
 ```
 
 
-## For Cpu:
+## For cpu:
 ```
 python demo.py \
 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn \
